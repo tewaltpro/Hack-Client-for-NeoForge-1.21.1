@@ -25,7 +25,7 @@ modId = "minecraft"
 type = "required"
 versionRange = "[1.21.1,1.21.2)"
 ordering = "NONE"
-side = "BOTH"
+side = "CLIENT"
 
 [[mixins]]
 config = "wurst_client_on_neoforge.mixins.json"
