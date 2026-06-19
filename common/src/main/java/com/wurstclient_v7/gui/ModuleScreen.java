@@ -63,7 +63,6 @@ public class ModuleScreen extends Screen {
             lineY += 12;
         }
 
-        super.render(gfx, mouseX, mouseY, partialTick);
     }
 
     private void renderModule(GuiGraphics gfx, int x, int y, String label, boolean enabled, String action) {
