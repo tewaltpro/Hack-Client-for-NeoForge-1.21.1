@@ -4,6 +4,10 @@
 
 # Hack Client for 1.21.1 (NeoForge)
 
+#BLUR FIX + MENU RESIZE
+##Credit to Kenzo101_studios for the original Wurst derived Hack Client for NeoForge. 
+##I, tewaltpro, have since addressed some issues with it including the accidental blur overlay of the ClickGUI along with a resizing of the hack menu. Enjoy!
+
 A Wurst-like hack client for Minecraft 1.21.1 with a NeoForge target.
 
 ## Quick start
