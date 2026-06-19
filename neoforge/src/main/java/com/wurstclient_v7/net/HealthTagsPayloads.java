@@ -42,6 +42,6 @@ public final class HealthTagsPayloads {
 
     public static void register(RegisterPayloadHandlersEvent event, IPayloadHandler<HealthUpdate> clientHandler) {
         PayloadRegistrar registrar = event.registrar("wurst_client_on_neofprge");
-        registrar.playToClient(HealthUpdate.TYPE, HealthUpdate.CODEC, clientHandler);
+        registrar.optional().playToClient(HealthUpdate.TYPE, HealthUpdate.CODEC, clientHandler);
     }
 }
