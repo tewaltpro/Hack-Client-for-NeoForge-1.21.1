@@ -9,7 +9,7 @@ import net.minecraft.client.gui.screens.Screen;
 import net.minecraft.network.chat.Component;
 
 public class ModuleScreen extends Screen {
-    private final int WIDTH = 120;
+    private final int WIDTH = 180;
 
     private final int HEIGHT = 262;
 
@@ -63,15 +63,14 @@ public class ModuleScreen extends Screen {
             lineY += 12;
         }
 
-        super.render(gfx, mouseX, mouseY, partialTick);
     }
 
     private void renderModule(GuiGraphics gfx, int x, int y, String label, boolean enabled, String action) {
         String status = enabled ? "ON" : "OFF";
         gfx.drawString(this.font, label, x + 8, y, -1, false);
-        gfx.drawString(this.font, status, x + 120 - 8 - this.font.width(status) - 40, y, enabled ? -10027162 : -39322, false);
+        gfx.drawString(this.font, status, x + WIDTH - 8 - this.font.width(status) - 40, y, enabled ? -10027162 : -39322, false);
         String binding = (this.listeningAction != null && this.listeningAction.equals(action)) ? "Press any key..." : KeybindManager.getLabel(action);
-        gfx.drawString(this.font, binding, x + 120 - 8 - this.font.width(binding), y, -86, false);
+        gfx.drawString(this.font, binding, x + WIDTH - 8 - this.font.width(binding), y, -86, false);
     }
 
     public boolean mouseClicked(double mouseX, double mouseY, int button) {
