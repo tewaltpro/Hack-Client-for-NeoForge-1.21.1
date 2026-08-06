@@ -11,7 +11,7 @@
 Credit to Kenzo101_studios for the original Wurst derived Hack Client for NeoForge. 
 I, tewaltpro, have since addressed some issues with it including the accidental blur overlay of the ClickGUI along with a resizing of the mod menu. Enjoy!
 
-### I would like to again restate the importance of using code responsibly. While Minecraft Hacks may not cause real harm, online ethics are important and this software should be used for informative, experimental, and appropriate use always. As makers, it's our responsibility to not just make tools, but use them in ways that are kind and acceptable. I encourage you to only use this mod when you have permission to! Happy Minecraft'ing.
+### I would like to again restate the importance of using code responsibly. While Minecraft mods may not cause real harm or damage, online ethics are important and this software should be used for informative, experimental, and appropriate use always. As makers, it's our responsibility to not just make tools, but use them in ways that are kind and acceptable. I encourage you to only use this mod when you have permission to! Happy Minecraft'ing.
 
 ---
 
