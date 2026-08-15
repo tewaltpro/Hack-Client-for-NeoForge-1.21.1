@@ -39,14 +39,9 @@ If you want to contribute or run the project locally, see `CONTRIBUTING.md` for 
 
 ## Contributing
 
-Contributions welcome — please see `CONTRIBUTING.md` for contribution guidelines. If you prefer direct contact, email **kenzo101studios@gmail.com**.
+Contributions welcome — please see `CONTRIBUTING.md` for contribution guidelines.
 
 ## License
 
 MIT — see `LICENSE` for details.
 
-### PS: Dont mind some directories or files be mentioning Wurst Client.  it was because the original maybe COPYRIGHTED project was to port Wurst Client to neoforge. but i decided to create my own  client with VS CODE!
-
-## OTHER PROJECT!
-Check out my ElytraMace Project as well!
-### ![Static Badge](https://img.shields.io/badge/My%20ElytraMace%20Project%20Based%20On%20johsar's%20Mod%20On%20Modrinth-blue?style=flat&logo=https%3A%2F%2Fbr.vexels.com%2Flogos%2Flink%2F&link=https%3A%2F%2Fgithub.com%2Fkenzo101-codeit%2FElytraMace-MOD-ORIGINAL_IDEA_BY_johsar_ON_MODRINTH-%2F)
